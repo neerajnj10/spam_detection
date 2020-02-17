@@ -1,4 +1,5 @@
 # spam_detection
+> My approach spam detection problem is discussed in jupyter python notebook in this repo.
 
 The problem statement comes from Kaggle machine learning dataset defined here - https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
